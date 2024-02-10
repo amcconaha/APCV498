@@ -1,2 +1,5 @@
 # APCV498
-Spring 2024 Course 
+Group Project for Spring 2024 Course 
+
+Capstone Project for APCV 498.
+
